@@ -1,0 +1,10 @@
+{
+  "bin": {
+    "provider": "binlist",
+    "url": "https://lookup.binlist.net/"
+  },
+  "rate": {
+    "provider": "exchangerate",
+    "url": "https://api.exchangerate.host/latest"
+  }
+}
